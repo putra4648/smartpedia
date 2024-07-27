@@ -1,3 +1,3 @@
 # smartpedia
 
-A new Flutter project.
+Project bersama sepuh @ilham
